@@ -1,0 +1,14 @@
+C:\Proyectos Wahio\LocalRoom\LocalRoomApi\bin\Debug\netcoreapp2.1\LocalRoomApi.deps.json
+C:\Proyectos Wahio\LocalRoom\LocalRoomApi\bin\Debug\netcoreapp2.1\LocalRoomApi.runtimeconfig.json
+C:\Proyectos Wahio\LocalRoom\LocalRoomApi\bin\Debug\netcoreapp2.1\LocalRoomApi.runtimeconfig.dev.json
+C:\Proyectos Wahio\LocalRoom\LocalRoomApi\bin\Debug\netcoreapp2.1\LocalRoomApi.dll
+C:\Proyectos Wahio\LocalRoom\LocalRoomApi\bin\Debug\netcoreapp2.1\LocalRoomApi.pdb
+C:\Proyectos Wahio\LocalRoom\LocalRoomApi\obj\Debug\netcoreapp2.1\LocalRoomApi.csprojAssemblyReference.cache
+C:\Proyectos Wahio\LocalRoom\LocalRoomApi\obj\Debug\netcoreapp2.1\LocalRoomApi.csproj.CoreCompileInputs.cache
+C:\Proyectos Wahio\LocalRoom\LocalRoomApi\obj\Debug\netcoreapp2.1\LocalRoomApi.RazorAssemblyInfo.cache
+C:\Proyectos Wahio\LocalRoom\LocalRoomApi\obj\Debug\netcoreapp2.1\LocalRoomApi.RazorAssemblyInfo.cs
+C:\Proyectos Wahio\LocalRoom\LocalRoomApi\obj\Debug\netcoreapp2.1\LocalRoomApi.AssemblyInfoInputs.cache
+C:\Proyectos Wahio\LocalRoom\LocalRoomApi\obj\Debug\netcoreapp2.1\LocalRoomApi.AssemblyInfo.cs
+C:\Proyectos Wahio\LocalRoom\LocalRoomApi\obj\Debug\netcoreapp2.1\LocalRoomApi.RazorTargetAssemblyInfo.cache
+C:\Proyectos Wahio\LocalRoom\LocalRoomApi\obj\Debug\netcoreapp2.1\LocalRoomApi.dll
+C:\Proyectos Wahio\LocalRoom\LocalRoomApi\obj\Debug\netcoreapp2.1\LocalRoomApi.pdb
